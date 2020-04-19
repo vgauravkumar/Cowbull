@@ -1,0 +1,13 @@
+GAURAV'S GUESS GAME
+
+The motive of this game is to read mind of the PC.
+Cow is used for match of the digit in the number but not at exact place.
+Bull is used if the digit matches at exact places.
+If you want to give up, give your guess as 0.
+
+RULES:
+1. Enter the 3 digited number as your guess.
+2. The numer should be a non zero number.
+3. The digits of the number should not repeat.
+
+If at any moment you feel like quiting the game just enter 0 as your guess.
