@@ -135,7 +135,7 @@ void main()
        printf("%d was the number. You lost...",x);
        c=1;
        break;
-   }//else if(a==-231){printf("%d",x);}         ***********BUG*********** will be valid for any negetive number.
+   }//else if(a==-231){printf("%d",x);}         ***********BUG*********** will be valid for any negetive number.<OKAY>
    cowbull(a,x,n);
    g=g+1;
    }
